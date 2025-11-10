@@ -110,6 +110,18 @@ set_seed(42)
 
 ---
 
+
+## Results and visuals
+<img width="1800" height="600" alt="class_image_distribution" src="https://github.com/user-attachments/assets/cd86a336-bd20-4a78-82a9-c678891d6311" />
+<img width="973" height="718" alt="do1" src="https://github.com/user-attachments/assets/8c7c0883-0262-4778-a0d0-4832cc1d3059" />
+<img width="1477" height="467" alt="clsd" src="https://github.com/user-attachments/assets/c75fe4c2-9d98-408f-87a8-4fb674cf56de" />
+<img width="1447" height="455" alt="cld1" src="https://github.com/user-attachments/assets/b93c0a58-edcb-4bab-bdda-f5762cfe434c" />
+<img width="1126" height="347" alt="te-rp2k" src="https://github.com/user-attachments/assets/ae4a7a99-6448-4e4f-86cb-ca6af26acc99" />
+<img width="1200" height="500" alt="train_val_curves_epoch2" src="https://github.com/user-attachments/assets/3d47488b-1ea9-4fd6-895e-d07f04fa4304" />
+<img width="1200" height="1000" alt="confusion_matrix" src="https://github.com/user-attachments/assets/e727540e-187d-467b-a2e9-fe1f8a7908c5" />
+<img width="2000" height="440" alt="correct_incorrect_examples" src="https://github.com/user-attachments/assets/d6b76062-01db-4b6b-a555-2cfe102d322c" />
+
+
 ## Hardware Notes
 
 - GPU recommended  
