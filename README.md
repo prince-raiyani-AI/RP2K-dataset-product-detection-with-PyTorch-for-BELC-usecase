@@ -4,7 +4,7 @@ This repository contains a single Jupyter/Colab notebook that builds a **balance
 
 ---
 
-## Update notebook paths (if needed)
+## Update notebook paths as required
 
 ```python
 DATASET_PATH = './data/rp2k-dataset'
@@ -29,14 +29,14 @@ From the notebook imports:
 - pillow  
 - scikit-learn  
 - opencv-python (cv2)  
-- albumentations, albumentations[imgaug] (optional extras)  
+- albumentations, albumentations[imgaug]
 - torch, torchvision, timm  
 
-### Install (example)
+### Install
 
 ```bash
 pip install --upgrade pip
-pip install numpy pandas matplotlib tqdm pillow scikit-learn opencv-python albumentations timm torch torchvision --index-url https://download.pytorch.org/whl/cu121
+pip install -r requirements.txt
 ```
 
 > Adjust PyTorch index URL to match CUDA/CPU: https://pytorch.org/get-started/locally/
