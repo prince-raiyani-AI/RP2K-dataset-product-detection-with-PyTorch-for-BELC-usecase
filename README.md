@@ -137,7 +137,30 @@ Kaggle: https://www.kaggle.com/datasets/khyeh0719/rp2k-dataset
 - Albumentations Docs  
 - sklearn train_test_split  
 - Matplotlib histogram docs  
-
+- https://stackoverflow.com/questions/44429199/how-to-load-a-list-of-numpy-arrays-to-pytorch-dataset-loader
+- https://www.geeksforgeeks.org/deep-learning/reproducibility-in-pytorch/
+- https://www.geeksforgeeks.org/machine-learning/how-to-set-up-and-run-cuda-operations-in-pytorch/
+- https://www.geeksforgeeks.org/python/how-to-access-the-metadata-of-a-tensor-in-pytorch/
+- https://www.geeksforgeeks.org/deep-learning/handling-class-imbalance-in-pytorch/
+- https://seaborn.pydata.org/tutorial/distributions.html
+- https://www.geeksforgeeks.org/python/apply-operations-to-groups-in-pandas/
+- https://www.geeksforgeeks.org/python/python-pandas-dataframe-sample/
+- https://www.w3schools.com/python/matplotlib_histograms.asp
+- https://albumentations.ai/docs/
+- https://www.geeksforgeeks.org/python/random-choices-method-in-python/
+- https://www.geeksforgeeks.org/python/python-directory-management/
+- https://www.geeksforgeeks.org/python/python-shutil-copy2-method/
+- https://stackoverflow.com/questions/26681756/how-to-convert-a-python-numpy-array-to-an-rgb-image-with-opencv-2-4
+- https://www.w3schools.com/python/matplotlib_subplot.asp
+- https://www.geeksforgeeks.org/machine-learning/how-to-split-a-dataset-into-train-and-test-sets-using-python/
+- https://www.datacamp.com/tutorial/complete-guide-data-augmentation
+- https://docs.pytorch.org/tutorials/beginner/data_loading_tutorial.html
+- https://www.geeksforgeeks.org/python/datasets-and-dataloaders-in-pytorch/
+- https://dataloop.ai/library/model/timm_efficientnetv2_rw_sra2_in1k/
+- https://machinelearningmastery.com/managing-a-pytorch-training-process-with-checkpoints-and-early-stopping/
+- https://medium.com/biased-algorithms/a-practical-guide-to-implementing-early-stopping-in-pytorch-for-model-training-99a7cbd46e9d
+- https://docs.pytorch.org/tutorials/beginner/saving_loading_models.html
+  
 ---
 
 ## License
